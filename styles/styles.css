@@ -1,7 +1,7 @@
 
 body {        
     font-family: 'Titillium Web', sans-serif;
-    background-color: #FFFCFA;
+    background-color: #d89a70;
     display: grid;
     grid-template-rows: auto 1fr auto;
 }
@@ -11,7 +11,7 @@ main {
 }
 
 header {
-    background-color: #A2D7D2;
+    background-color: #f58747;
     height: 110px;
     padding: 0 30px;
     display: flex;
